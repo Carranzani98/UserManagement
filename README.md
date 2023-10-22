@@ -60,7 +60,7 @@ This hook handles the submission of the user form, including validations for ema
 
 1. Clone the repository:
     ```sh
-    git clone [https://github.com/Carranzani98/UserManagement.git](https://github.com/Carranzani98/UserManagement.git)
+    git clone https://github.com/Carranzani98/UserManagement.git
     cd UserManagement
     ```
 
