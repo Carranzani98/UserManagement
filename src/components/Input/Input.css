@@ -1,0 +1,36 @@
+.input-container {
+    width: 100%;
+}
+
+.input-label {
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ACACAC;
+}
+
+.input {
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 1px solid #C6CDD4;
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+.input:focus-visible {
+    outline: 1px solid #87db9a;
+    --_input-bd: 1px solid #87db9a;
+    border-radius: 8px;
+    transition: border-color 0.3s;
+}
+
+.input-error {
+    border-color: #87db9a;
+}
+
+.input-error-message {
+    color: #c7314a;
+    font-size: 12px;
+}
