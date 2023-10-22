@@ -1,0 +1,9 @@
+.back-anchor {
+    width: 10px;
+    height: 10px;
+    border-top: 2px solid #2B4647;
+    border-left: 2px solid #2B4647;
+    transform: rotate(-45deg);
+    cursor: pointer;
+    align-self: flex-start;
+}
