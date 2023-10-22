@@ -1,0 +1,8 @@
+body {
+    background-color: #ffffff;
+}
+
+.mantine-Select-input:focus, .mantine-Select-input:focus-visible, .mantine-Select-input:focus-within{
+    outline: 2px solid #87db9a;
+    --_input-bd: 2px solid #87db9a;
+}
